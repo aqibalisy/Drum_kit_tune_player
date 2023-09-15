@@ -1,2 +1,2 @@
 # Drum_kit_tune_player
-its a site where u can use keys or mouce click to play diffrent type of drum sounds
+This website provides users with the ability to produce various drum sounds using either their mouse or keyboard.
